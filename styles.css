@@ -1,0 +1,79 @@
+body {
+    background-color: #343d52;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    overflow: auto;
+    height: 100%;
+}
+
+nav {
+    color:  limegreen;
+    word-spacing: 30px;
+    font-size: 25px;
+    text-indent: 50px;
+    line-height: 2;
+    width: 100%;
+    overflow: auto;
+    height: 100%;
+}
+
+a:hover {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: limegreen;
+    text-indent: 70px;
+}
+
+.front-signs a:link {
+    display: inline-block;
+    text-indent: 70px;
+    font-size: 40px;
+}
+
+.front-signs {
+    line-height: 2;
+}
+
+
+h1 {
+    background-color: #343d52;
+    color: white;
+    text-indent: 25px;
+}
+
+p {
+    color:white;
+    text-indent: 95px;
+    font-size: 17px;
+    line-height: 5;
+
+}
+
+.front-signs p {
+    line-height: 1;
+}
+
+.socials {
+    text-indent: 0px;
+}
+
+h3 {
+    text-indent: 70px;
+    color: limegreen;
+}
+
+h2 {
+    text-indent: 45px;
+    font-size: 70px;
+    color: limegreen;
+    line-height: 0.3;
+}
+
+hr {
+    border-width: 5px;
+    border-style: solid;
+    color: white;
+}
